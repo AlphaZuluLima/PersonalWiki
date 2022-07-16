@@ -12,9 +12,14 @@ https://www.youtube.com/watch?v=SELYgZvAZbU
 ### Install xcode-select (this takes about 20 minutes)
 This is a prerequisite for installing Homebrew.
 
-Open a Terminal session and type the following command:
+In a Terminal session, type the following command:
 ```
 xcode-select --install
 ```
 
 ### Install Homebrew
+
+In a Terminal session, type the following command:
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
