@@ -53,3 +53,12 @@ In a Terminal session, enter the following the commands:
 ```
 brew install --cask firefox
 ```
+
+---
+
+### Install Visual Studio Code (vscode)
+#### Procedure
+In a Terminal session, enter the following command:
+```
+brew install --cask visual-studio-code
+```
