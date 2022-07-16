@@ -42,6 +42,7 @@ brew install python
 
 ### Install Firefox Web Browser
 #### Procedure
+In a Terminal session, enter the following the commands:
 ```
 brew install --cask firefox
 ```
