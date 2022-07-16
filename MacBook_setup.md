@@ -65,6 +65,15 @@ brew install --cask firefox
 
 ---
 
+### Install Google Chrome Web Browser
+#### Procedure
+In a Terminal session, enter the following the commands:
+'''
+brew install --cask google-chrome
+'''
+
+---
+
 ### Install Visual Studio Code (vscode)
 #### Procedure
 In a Terminal session, enter the following command:
