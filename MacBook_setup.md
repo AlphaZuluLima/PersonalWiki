@@ -68,9 +68,9 @@ brew install --cask firefox
 ### Install Google Chrome Web Browser
 #### Procedure
 In a Terminal session, enter the following the commands:
-'''
+```
 brew install --cask google-chrome
-'''
+```
 
 ---
 
