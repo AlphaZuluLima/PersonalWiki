@@ -5,7 +5,7 @@
 ### Install xcode-select (this takes about 30 minutes)
 This is a prerequisite for installing Homebrew.
 
-In a Terminal session, type the following command:
+In a Terminal session, enter the following command:
 ```
 xcode-select --install
 ```
@@ -19,9 +19,21 @@ https://brew.sh
 https://www.youtube.com/watch?v=SELYgZvAZbU
 
 #### Procedure
-In a Terminal session, type the following command:
+In a Terminal session, enter the following command:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 ### Install Python
+#### References
+https://docs.python-guide.org/starting/install3/osx/
+
+#### Procedure
+In a Terminal session, enter the following the commands:
+```
+export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+```
+```
+export PATH="/usr/local/opt/python/libexec/bin:$PATH"
+```
+
