@@ -40,3 +40,8 @@ export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 brew install python
 ```
 
+### Install Firefox Web Browser
+#### Procedure
+```
+brew install --cask firefox
+```
