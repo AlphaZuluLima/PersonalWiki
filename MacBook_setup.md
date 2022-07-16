@@ -2,6 +2,8 @@
 
 ## Install Initial Applications
 
+---
+
 ### Install xcode-select (this takes about 30 minutes)
 This is a prerequisite for installing Homebrew.
 
@@ -9,8 +11,9 @@ In a Terminal session, enter the following command:
 ```
 xcode-select --install
 ```
-
 Navigate to *System Preferences -> Software Update* and check for updates. Install any updates for xcode-select.
+
+---
 
 ### Install Homebrew
 #### References
@@ -23,6 +26,8 @@ In a Terminal session, enter the following command:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+---
 
 ### Install Python
 #### References
@@ -39,6 +44,8 @@ export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 ```
 brew install python
 ```
+
+---
 
 ### Install Firefox Web Browser
 #### Procedure
