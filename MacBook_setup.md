@@ -47,6 +47,15 @@ brew install python
 
 ---
 
+### Install 1Password
+#### Procedure
+In a Terminal session, enter the following the commands:
+```
+brew install --cask 1password
+```
+
+---
+
 ### Install Firefox Web Browser
 #### Procedure
 In a Terminal session, enter the following the commands:
