@@ -72,16 +72,6 @@ In a Terminal session, enter the following the commands:
 brew install --cask google-chrome
 ```
 
-
----
-
-### Install Google Chrome Web Browser
-#### Procedure
-In a Terminal session, enter the following the commands:
-```
-brew install awscli
-```
-
 ---
 
 ### Install Visual Studio Code (vscode)
@@ -89,6 +79,15 @@ brew install awscli
 In a Terminal session, enter the following command:
 ```
 brew install --cask visual-studio-code
+```
+
+---
+
+### Install AWS CLI
+#### Procedure
+In a Terminal session, enter the following the commands:
+```
+brew install awscli
 ```
 
 ---
