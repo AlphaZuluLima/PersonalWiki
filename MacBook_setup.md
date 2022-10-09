@@ -80,3 +80,25 @@ In a Terminal session, enter the following command:
 ```
 brew install --cask visual-studio-code
 ```
+
+---
+
+## Setup SSH
+
+### Create SSH keys
+#### Procedure
+```
+mkdir ~/.ssh
+```
+```
+cd ~/.ssh
+```
+```
+ssh-keygen -t ecdsa -b 521 -f ~/.ssh/lanzaaz
+```
+```
+ls -l ~/.ssh
+```
+```
+cat ~/.ssh/lanzaaz.pub
+```
