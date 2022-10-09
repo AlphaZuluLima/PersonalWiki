@@ -94,7 +94,7 @@ mkdir ~/.ssh
 cd ~/.ssh
 ```
 ```
-ssh-keygen -t ecdsa -b 521 -f ~/.ssh/lanzaaz
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/lanzaaz
 ```
 ```
 ls -l ~/.ssh
