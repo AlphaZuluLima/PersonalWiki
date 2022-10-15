@@ -92,6 +92,15 @@ brew install awscli
 
 ---
 
+### Install Adobe Acro
+#### Procedure
+In a Terminal session, enter the following the commands:
+```
+brew install --cask adobe-acrobat-reader
+```
+
+---
+
 ## Setup SSH
 
 ### Create SSH keys
