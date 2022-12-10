@@ -92,7 +92,7 @@ brew install awscli
 
 ---
 
-### Install Adobe Acro
+### Install Adobe Acrobat Reader
 #### Procedure
 In a Terminal session, enter the following the commands:
 ```
